@@ -9,5 +9,5 @@ Desenvolvedor Java e Spring Boot, busco construir softwares que facilite e melho
 
 
 ### 🖥️ Tech
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
