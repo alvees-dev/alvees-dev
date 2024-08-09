@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**alvees-dev/alvees-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Gabriel Alves
 
-Here are some ideas to get you started:
+Desenvolvedor Java e Spring Boot, busco construir softwares que facilite e melhore a qualidade de vida das pessoas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Sociais
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/alvesg-dev//)
+
+
+
+### 🛠 Tech
+Java, SpringBoot, PostgreSQL
+
