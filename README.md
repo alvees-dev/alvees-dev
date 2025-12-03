@@ -3,7 +3,7 @@
 Desenvolvedor Java e Spring Boot. Meu objetivo é construir softwares que facilite e melhore a qualidade de vida das pessoas. 
 
 ### 🌐 Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvesg-dev//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvesg-dev///)
 
 ### 🖥️ Tech
 
